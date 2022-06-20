@@ -3,6 +3,15 @@ Example Voting App
 
 A simple distributed application running across multiple Docker containers.
 
+Changes from the dockersamples version:
+
+Actual vote count is displayed, not just percentages.
+
+If no vote has been cast, the results are displayed as 0/0, not 50%/50% as in the original application.
+
+
+
+
 Getting started
 ---------------
 
