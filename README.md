@@ -7,9 +7,7 @@ Changes from the dockersamples version:
 
 Actual vote count is displayed, not just percentages.
 
-If no vote has been cast, the results are displayed as 0/0, not 50%/50% as in the original application.
-
-
+If no vote has been cast, the results are displayed as 0/0, not 50%/50% as in the original application.  Comments in Udemy.com forums suggested that many students were confused by the illogical voting results from the original flawed design.  It looked broken because of how it was designed.
 
 
 Getting started
