@@ -31,8 +31,12 @@ button.a{
   background-color: #1aaaf8;
 }
 
-button.b{
+button.b {
   background-color: #00cbca;
+}
+
+button.c {
+  background-color: #90cbca;
 }
 
 #tip{
@@ -78,7 +82,7 @@ button.b{
 #choice a{
   text-decoration:none;
 }
-#choice a:hover, #choice a:focus{
+#choice a:hover, #choice a:focus {
   outline:0;
   text-decoration:underline;
 }
@@ -114,6 +118,13 @@ button.b{
   background-color: #00a2a1;
 }
 
+#choice button.c:hover {
+  background-color: #ffa2a1;
+}
+
+#choice button.c:focus {
+  background-color: #f488c6;
+}
 #background-stats{
   z-index:1;
   height:100%;
