@@ -23,6 +23,8 @@ app.controller('statsCtrl', function($scope){
          $scope.aPercent = percentages.a;
          $scope.bPercent = percentages.b;
          $scope.total = a + b;
+         $scope.a = a;
+         $scope.b = b;
        });
     });
   };

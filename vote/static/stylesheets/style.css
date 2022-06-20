@@ -54,6 +54,15 @@ button.c {
   font-size: 24px;
 }
 
+#dominion {
+  position: absolute;
+  bottom: 170px;
+  right: 0;
+  left: 0;
+  color: #2277a8;
+  font-size: 24px;
+}
+
 #content-container{
   z-index: 2;
   position: relative;
